@@ -1,0 +1,2 @@
+# infokecoaupdate
+info terupdate
